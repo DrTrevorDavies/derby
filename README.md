@@ -3,8 +3,8 @@ How can fishing derbies be designed in such a way to be more useful for recreati
 
 ```mermaid
 graph LR
-A(Mushroom)-->B[Egg]
-B-->C{Ramen}
-C-->D[Happy]
-A-->F[Broke]-->E[Sad]
+A(Management metric)-->B[Lake]
+B-->C{Gear}
+B-->D[Fisher]
+B-->F[Area]
 ```

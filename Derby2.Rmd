@@ -1,5 +1,5 @@
 ---
-title: Design of Fishing Derbies for use in Recreational Fisheries Management
+title: Bridge between fishery dependent and fishery independent data - Design of Fishing Derbies for use in Recreational Fisheries Management
 author:
   - name: Trevor Davies
     email: trevor.davies@gov.bc.ca
@@ -8,11 +8,11 @@ author:
   - name: Brett Van Poorten
     email: bvanpoor@sfu.ca
     affiliation: 
-      - FLNRORD
+      - MoF
       - Simon Fraser University
 address:
   - code: FLNRORD
-    address: B.C. Ministry of Forests, Lands and Natural Resource Operations and Rural Development, Fish and Aquatic Habitat Branch, Victoria, British Columbia, Canada
+    address: B.C. Ministry of Forests, Fish and Wildlife Branch, Victoria, British Columbia, Canada
   - code: Simon Fraser University
     address: School of Resource and Environmental Management, Simon Fraser University, 8888 University Drive, Burnaby, BC, Canada
     
@@ -44,9 +44,52 @@ Ways to control for this
 How this paper should proceed
 
 - Simulation?
+- make a table of warts of recreational fishery data
+- 
+
 
 
 Here are two sample references: @Feynman1963118 [@Dirac1953888].
+
+#Bridge between fishery dependent and fishery independent data
+
+# Structure of the paper
+
+# Recreational fishing derbies Angling data alone
+- truncated measure of size structure
+- relative abundance
+
+- Table of common fishery metrics - fishery independent - fishery independent 
+
+limitations of fish independent
+- expensive, high effort
+
+limitations of fishery dependent
+- more effort
+
+Fixed gear
+- choice of single or multiple lures
+
+
+
+increased power using both methods
+
+
+#Confounding factors
+-
+
+## Mark recapture monitoring
+
+
+
+
+
+
+
+
+
+
+
 
 # Equations
 
@@ -82,4 +125,7 @@ knitr::kable(head(mtcars)[,1:4],
     caption = "\\label{tab1}Caption centered above table"
 )
 ```
+
+
+
 # References {#references .unnumbered}
